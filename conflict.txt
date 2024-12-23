@@ -1,1 +1,2 @@
 "Feature qo'shildi" 
+"Bugfix qo'shildi" 
